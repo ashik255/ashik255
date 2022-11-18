@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md. Ariful Islam
+- 👋 Hi, I’m Md. Ariful Islam.
 - 👀 I’m interested in Competitive Programming and also in MERN stack developing.
 - 🌱 I’m currently learning Data Structure,Algorithm and Frontend, Backend.
 - 💞️ I’m looking to collaborate Git Hub or Gmail.
