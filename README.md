@@ -13,7 +13,7 @@ Currently, I am working on BJIT Trainee Software Engineer
 I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
-- <b>Topics:</b> Software Development Methodologies, Scrum, Software Development Process, Git/GitHub, Project Management & Strategy
+- <b>Topics:</b> Web Development, Git/GitHub
 - <b>Technologies:</b> Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Figma
 
 ## ⚡ Fun fact
@@ -44,7 +44,6 @@ I've very active, writing content regularly to at least one of these.
 ● B.Sc. in Computer Science and Engineering, CGPA-3.50, from Daffodil International University in 2022.
 
 ● HSC in Science from Border Guard School and College, Rangpur in 2016.
-
 ● SSC in Science from Kurigram Government School, Kurigram in 2014. 
 
 <hr>
