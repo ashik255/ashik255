@@ -3,6 +3,17 @@
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
+## 👨🏽‍💻 What I'm working on 
+Currently, I am working on BJIT Trainee Software Engineer
+
+## 🧠 What I'm currently learning
+I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+
+## 👨‍💻 All of my projects are available at
+[https://github.com/ashik255](https://github.com/ashik255)
+
+ ## 📫 How to reach me
+ **mdarifulbd.cse@gmail.com**
 
 ## ⚡ Fun fact
 [Insert a fun fact about yourself that people might find interesting.]
