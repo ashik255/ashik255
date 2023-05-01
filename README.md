@@ -36,7 +36,7 @@ I've very active, writing content regularly to at least one of these.
 <h3 align="left">💻 Work Experience</h3>
 
 -  Software Engineer Trainee, BJIT Academy, April 2023 - Present
- 
+ <br/>
 - Full Stack Web Development - Java2 EE
 <hr>
 <h3 align="left">🎓 Education</h3>
