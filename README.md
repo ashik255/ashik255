@@ -40,11 +40,12 @@ I've very active, writing content regularly to at least one of these.
 - Full Stack Web Development - Java2 EE
 <hr>
 <h3 align="left">🎓 Education</h3>
-  ● B.Sc. in Computer Science and Engineering, CGPA-3.50, from Daffodil International University in 2022.
-
-  ● HSC in Science from Border Guard School and College, Rangpur in 2016.
+  - B.Sc. in Computer Science and Engineering, CGPA-3.50, from Daffodil International University in 2022.
 <br/>
-  ● SSC in Science from Kurigram Government School, Kurigram in 2014. 
+  - HSC in Science from Border Guard School and College, Rangpur in 2016.
+  
+<br/>
+  - SSC in Science from Kurigram Government School, Kurigram in 2014. 
 <hr>
 <h3 align="left">📚Training</h3>
 
