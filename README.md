@@ -4,7 +4,6 @@
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
 
 ## 👨🏽‍💻 What I'm working on 
