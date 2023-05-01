@@ -51,8 +51,11 @@ I've very active, writing content regularly to at least one of these.
 
 - Complete Web Development Course With Jhankar Mahbub
 
-<hr>
+## 🏆 Achievements
+- [List of professional achievements, such as awards, recognitions, or honors]
+- [List of projects you've completed that you're particularly proud of]
 
+<hr>
 <h3 align="left">🗃️ Project</h3>
 
 - Car Selling[https://car-selling-ef9d9.web.app/]
