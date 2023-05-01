@@ -2,6 +2,8 @@
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
+I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
 
 ## 👨🏽‍💻 What I'm working on 
@@ -9,6 +11,10 @@ Currently, I am working on BJIT Trainee Software Engineer
 
 ## 🧠 What I'm currently learning
 I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+
+## 💬 Ask me about
+- <b>Topics:</b> Software Development Methodologies, Scrum, Software Development Process, Git/GitHub, Project Management & Strategy
+- <b>Technologies:</b> Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Figma
 
 ## ⚡ Fun fact
 [Insert a fun fact about yourself that people might find interesting.]
