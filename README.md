@@ -3,8 +3,6 @@
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
 I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
 
 ## 👨🏽‍💻 What I'm working on 
 Currently, I am working on BJIT Trainee Software Engineer
@@ -62,8 +60,8 @@ I've very active, writing content regularly to at least one of these.
 
 - Health Bag[https://health-bag-32b48.web.app/]
 
-<hr>
-
+## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik255&label=Profile%20views&color=0e75b6&style=flat" alt="ashik255" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashik255&show_icons=true&locale=en&layout=compact" alt="ashik255" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashik255&show_icons=true&locale=en" alt="ashik255" /></p>
