@@ -41,15 +41,15 @@ I've very active, writing content regularly to at least one of these.
 
 <h3 align="left">📚Training</h3>
 
-- Java2EE in BJIT
+- Java2EE in BJIT Academy
 
-- Web Development(MERN)in Programming Hero With Jhankar Vai
+- Complete Web Development Course With Jhankar Mahbub
 
 <hr>
 
 <h3 align="left">🗃️Project</h3>
 
-- Car Selling[//car-selling-ef9d9.web.app/]
+- Car Selling[car-selling-ef9d9.web.app/]
 
 - Travel Agency[https://travel-agency-ac3cd.web.app/]
 
