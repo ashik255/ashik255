@@ -2,13 +2,13 @@
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
 <h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
-I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, mongoDB, etc. I have a strong foundation in web techologies, and I'm constantly learning new technologies to stay up-to-date with the latest trends.
+I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in web technologies and constantly learn new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on 
-Currently, I am working on BJIT Trainee Software Engineer
+Recently, I am working as a BJIT Trainee Software Engineer
 
 ## 🧠 What I'm currently learning
-I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+I'm currently learning Java, JSP, Servlet, Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. Continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
 - <b>Topics:</b> Web Development, Git/GitHub
@@ -18,7 +18,7 @@ I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my deve
 [Insert a fun fact about yourself that people might find interesting.]
 
 ## 📝 Blogs and writing
-I've very active, writing content regularly to at least one of these.
+I've been very active, writing content regularly to at least one of these.
 - [Blog Link]
 - [Blog Link]
 
@@ -39,7 +39,7 @@ I've very active, writing content regularly to at least one of these.
 - Full Stack Web Development - Java2 EE
 <hr>
 <h3 align="left">🎓 Education</h3>
- - B.Sc. in Computer Science and Engineering, CGPA-3.50, from Daffodil International University in 2022.
+ - B.Sc. in Computer Science and Engineering, CGPA-3.44, from Daffodil International University in 2022.
 <br/>
  - HSC in Science from Border Guard School and College, Rangpur in 2016.
 <br/>
