@@ -18,7 +18,7 @@ I'm currently learning Java, JSP, Servlet, Spring Boot,React.JS to improve my de
 [Insert a fun fact about yourself that people might find interesting.]
 
 ## 📝 Blogs and writing
-I've been very active, writing content regularly to at least one of these.
+I've been very active, writing content regularly for at least one of these.
 - [Blog Link]
 - [Blog Link]
 
