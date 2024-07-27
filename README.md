@@ -1,11 +1,11 @@
 
 <img alt="Coder GIF" src="https://raw.githubusercontent.com/uksaha77/uksaha77/main/web-development-banner.gif" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1 align="left">Hi 👋, I'm Md. Ariful Islam</h1>
-<h3 align="left">Software Engineer Trainee @ BJIT Ltd.</h3>
-I'm a passionate Full Stack Web Developer from Bangladesh with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in web technologies and constantly learn new technologies to stay up-to-date with the latest trends.
+<h3 align="left">Java Developer @T.K. Group.</h3>
+I'm a passionate Full Stack Web Developer from Bangladesh, and I work with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in web technologies and constantly learn new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on 
-I have worked as a T.K. Group Software Engineer(Java)
+I have worked as as Java Developer at T.K. Group.
 
 ## 🧠 What I'm currently learning
 I'm currently learning Java, JSP, Servlet, Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. Continuous learning is the key to becoming a successful Full Stack Web Developer.
