@@ -5,7 +5,7 @@
 I'm a passionate Full Stack Web Developer from Bangladesh, and I work with web applications using Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL, MongoDB, etc. I have a strong foundation in web technologies and constantly learn new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on 
-I have worked as as Java Developer at T.K. Group.
+I have worked as a Java Developer at T.K. Group.
 
 ## 🧠 What I'm currently learning
 I'm currently learning Java, JSP, Servlet, Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. Continuous learning is the key to becoming a successful Full Stack Web Developer.
